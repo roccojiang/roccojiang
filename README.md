@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![noot noot](pingu.gif)
+![noot noot](https://github.com/rj14ng/rj14ng/raw/master/pingu.gif)
