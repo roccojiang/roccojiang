@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a final-year student at [Imperial College London](https://www.imperial.ac.uk/computing/) studying Computing with an integrated Masters.
+
+My research interests are in programming languages. Currently, I'm most interested in static program analysis and functional programming.
+
 ![noot noot](https://github.com/rj14ng/rj14ng/raw/master/pingu.gif)
