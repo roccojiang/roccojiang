@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a final-year student at [Imperial College London](https://www.imperial.ac.uk/computing/) studying Computing with an integrated Masters.
+Hello! I'm a recent graduate from [Imperial College London](https://www.imperial.ac.uk/computing/), where I studied Computing with an integrated Masters.
 
 My research interests lie primarily in programming languages. Currently, I'm most interested in static program analysis and functional programming.
 
